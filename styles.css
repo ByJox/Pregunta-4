@@ -1,0 +1,23 @@
+body{
+    display: flex;
+    height: 100vh;
+    text-align: center;
+}
+.notes-container{
+    border-radius: 25px;
+}
+.upper-notes{
+    text-align: left;
+    background-color: black;
+    color: white;
+    border-radius: 25px;
+}
+.more-notes{
+    background-color: white;
+    color: black;
+}
+
+.lower-notes{
+    background-color: gainsboro;
+    color: black;
+}
